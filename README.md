@@ -1,24 +1,23 @@
-# README
+# Ruby on Rails Tutorial chapter 1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello App is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
 
-Things you may want to cover:
+* Ruby version: 2.5.3
 
-* Ruby version
+* System dependencies: gem list shows too many gem to list here
 
-* System dependencies
+* Configuration: unknown
 
-* Configuration
+* Database creation: none
 
-* Database creation
+* Database initialization: n/a
 
-* Database initialization
+* How to run the test suite: n/a
 
-* How to run the test suite
+* Services (job queues, cache servers, search engines, etc.): unknown
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Deployment instructions: TBA
 
 * ...
